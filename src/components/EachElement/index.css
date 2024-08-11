@@ -1,0 +1,10 @@
+.list-styling {
+  list-style-type: none;
+  margin-bottom: 15px;
+}
+
+.para-styling {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #272c47;
+}
